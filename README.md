@@ -18,7 +18,7 @@
 
 
 
-<img src= "https://github.com/serkanyildizcode/serkanyildizcode/blob/main/giphy-downsized-large.gif" align="center">
+<img src= "https://github.com/serkanyildizcode/blob/main/giphy-downsized-large.gif" align="center">
 
 
 
